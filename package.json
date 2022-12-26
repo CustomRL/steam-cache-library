@@ -1,0 +1,22 @@
+{
+  "name": "steam-cache-library",
+  "version": "1.0.0",
+  "description": "An interactive UI that allows you to view all games cached on your network through steam cache.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CustomRL/steam-cache-library.git"
+  },
+  "author": "Custom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CustomRL/steam-cache-library/issues"
+  },
+  "homepage": "https://github.com/CustomRL/steam-cache-library#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
